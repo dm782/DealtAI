@@ -1,0 +1,7 @@
+{
+  "name": "ZenControl AI",
+  "description": "Сложная система самоконтроля с ИИ-тренером, отслеживанием фокуса и глубокой аналитикой продуктивности.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
